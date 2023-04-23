@@ -1,0 +1,15 @@
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.csproj.AssemblyReference.cache
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.AssemblyInfoInputs.cache
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.AssemblyInfo.cs
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.csproj.CoreCompileInputs.cache
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\bin\Debug\net7.0\CANDataExtractor.exe
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\bin\Debug\net7.0\CANDataExtractor.deps.json
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\bin\Debug\net7.0\CANDataExtractor.runtimeconfig.json
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\bin\Debug\net7.0\CANDataExtractor.dll
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\bin\Debug\net7.0\CANDataExtractor.pdb
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.dll
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\refint\CANDataExtractor.dll
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.pdb
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\CANDataExtractor.genruntimeconfig.cache
+C:\Users\hrogers.HFR\RiderProjects\CANDataExtractor\CANDataExtractor\obj\Debug\net7.0\ref\CANDataExtractor.dll
